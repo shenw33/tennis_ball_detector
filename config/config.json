@@ -1,0 +1,7 @@
+{
+    "numPos": 500,
+    "numNeg": 1000,
+    "numStages": 10,
+    "featureType": "HAAR",
+    "minHitRate": 0.995
+ }

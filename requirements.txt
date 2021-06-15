@@ -1,0 +1,10 @@
+
+python                    3.7.0+
+numpy                     1.20
+OpenCV                    4.5.2
+pyyaml                    5.4.1
+pandas                    1.2.4
+
+
+The work is also deployed on Windows 10 and requires the pre-built software from OpenCV 3
+These pre-built software is already saved under "./data"
