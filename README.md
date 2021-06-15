@@ -14,11 +14,11 @@ The yolo annotation file should be stored under:`data/yolo_annotation/`
 
 - Negative data
   Negative images should contain no tennis balls. As an example, the negative data is pre-downloaded. The source of the data is [ here ](https://www.kaggle.com/muhammadkhalid/negative-images)
-  Save the data under: `data/negative_images`
+  Save the data under: `data/negative_images/`
 
 - Requirement lists
 
-  The work is made possible with Python Scripts. The packages lists can be seen in "requirements.txt". It is deployed on Windows 10 and requires the pre-built software from OpenCV 3. These pre-built software is already saved under "./data"
+  The work is made possible with Python Scripts. The packages lists can be seen in "requirements.txt". It is deployed on Windows 10 and requires the pre-built software from OpenCV 3. These pre-built software should be saved under './data'
 
 ## Data Preparation
 
