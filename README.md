@@ -10,6 +10,8 @@ Here we use a demo video from @Tennibot.
 
 The video file should be stored under:`data/raw_video/demo_video.avi`
 
+The yolo annotation file should be stored under:`data/yolo_annotation/`
+
 - Negative data
   Negative images should contain no tennis balls. As an example, the negative data is pre-downloaded. The source of the data is [ here ](https://www.kaggle.com/muhammadkhalid/negative-images)
   Save the data under: `data/negative_images`
