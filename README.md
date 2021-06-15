@@ -20,7 +20,7 @@ The video file should be stored under:`data/raw_video/demo_video.avi`
 
 ## Data Preparation
 
-At this step, image frames from the raw video is collected under `data/raw_video/extracted_frames`. Meanwhile, as the data received is annotation in the format of YOLO1.1, which is different from the requirement of OpenCV. It is also noticed that the annotation folder contains only the annotation label for the ones that contain at least one tennis ball. Therefore, effective training samples are collected and saved to a new folder "data/pos"
+At this step, image frames from the raw video is collected under `data/raw_video/extracted_frames/`. Meanwhile, as the data received is annotation in the format of YOLO1.1, which is different from the requirement of OpenCV. It is also noticed that the annotation folder contains only the annotation label for the ones that contain at least one tennis ball. Therefore, effective training samples are collected and saved to a new folder "data/pos"
 
 ## Training
 
