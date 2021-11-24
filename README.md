@@ -1,12 +1,10 @@
-# Tennis ball detection by OpenCV Cascade Classifier
+# ball detection by OpenCV
 
 
 
 ## Data and Requirement
 
 - Positive data
-
-Here we use a demo video from @Tennibot.
 
 The video file should be stored under:`data/raw_video/demo_video.avi`
 
